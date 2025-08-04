@@ -39,3 +39,24 @@ Battle of Logic is a simple yet engaging quiz-based game built with Python and T
 
 ```bash
 python Battle_of_logic.py
+```
+
+---
+
+## 🛠️ Features
+- Randomized questions from a predefined list
+- Health tracking for both player and enemy
+- Simple GUI using Tkinter
+- Instant feedback on answers
+
+---
+
+## 📌 Future Improvements
+- Add more questions and categories
+- Include difficulty levels
+- Add sound effects and animations
+- Track score and high scores
+
+---
+## 📜 License
+This project is open-source and free to use for educational and personal purposes.
